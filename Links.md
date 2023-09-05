@@ -7,3 +7,5 @@ Visual C++ Redistributable for Visual Studio 2012 Update 4 - [https://www.micros
 Visual C++ Redistributable Packages for Visual Studio 2013 - [https://www.microsoft.com/en-us/download/details.aspx?id=40784](https://www.microsoft.com/en-us/download/details.aspx?id=40784)
 
 Unified Communications Managed API 4.0 Runtime - [https://www.microsoft.com/en-us/download/details.aspx?id=34992](https://www.microsoft.com/en-us/download/details.aspx?id=34992)
+
+IIS URL rewrite module - [https://download.microsoft.com/download/1/2/8/128E2E22-C1B9-44A4-BE2A-5859ED1D4592/rewrite_amd64_en-US.msi](https://download.microsoft.com/download/1/2/8/128E2E22-C1B9-44A4-BE2A-5859ED1D4592/rewrite_amd64_en-US.msi)
