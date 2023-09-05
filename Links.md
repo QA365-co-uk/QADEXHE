@@ -5,3 +5,5 @@ Exchange Server 2019 CU 13 - [https://www.microsoft.com/en-us/download/details.a
 Visual C++ Redistributable for Visual Studio 2012 Update 4 - [https://www.microsoft.com/download/details.aspx?id=30679](https://www.microsoft.com/download/details.aspx?id=30679)
 
 Visual C++ Redistributable Packages for Visual Studio 2013 - [https://www.microsoft.com/en-us/download/details.aspx?id=40784](https://www.microsoft.com/en-us/download/details.aspx?id=40784)
+
+Unified Communications Managed API 4.0 Runtime - [https://www.microsoft.com/en-us/download/details.aspx?id=34992](https://www.microsoft.com/en-us/download/details.aspx?id=34992)
