@@ -17,3 +17,7 @@ Get-ClientAccessService | Set-ClientAccessService -AutoDiscoverServiceInternalUr
 Set-OutlookProvider EXPR -CertPrincipalName:*.QAExHybrid.com
 Get-ClientAccessService | Select Name,AutoDiscoverServiceInternalURI
 ```
+# Lab 3 - Import Exchange Server certificate
+```
+Import-ExchangeCertificate -FileData ([System.IO.File]::ReadAllBytes('\\QAExHybridEx\Cert\QADEXHE.pfx')) -Password (ConvertTo-SecureString -String 'Pa$$w0rd' -AsPlainText -Force) -PrivateKeyExportable $true
+```
