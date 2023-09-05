@@ -61,7 +61,7 @@ $UsersCSV = `
  'Tom,Young,Research'
 
  $Users = $UsersCSV | ConvertFrom-Csv
- $sp= 'Pa$w0rd'| ConvertTo-SecureString -AsPlainText -Force
+ $sp= 'Pa55w.rd'| ConvertTo-SecureString -AsPlainText -Force
 
 
 new-aduser -GivenName Adam -Surname Able -UserPrincipalName "Adam@adam@$sid.qaexhybrid.com" -Name 'Adam Able' -AccountPassword $sp
