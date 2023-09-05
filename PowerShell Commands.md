@@ -21,7 +21,7 @@ Get-ClientAccessService | Select Name,AutoDiscoverServiceInternalURI
 ```
 Import-ExchangeCertificate -FileData ([System.IO.File]::ReadAllBytes('\\QAExHybridEx\Cert\QADEXHE.pfx')) -Password (ConvertTo-SecureString -String 'Pa$$w0rd' -AsPlainText -Force) -PrivateKeyExportable $true
 ```
-# Lab 5a - Create Users, Ous and Exchange Objects
+# Lab 5a - Create Users, OUs and Exchange Objects
 ```
 Import-Module ActiveDirectory
 
