@@ -10,4 +10,4 @@ Azure AD Connect v2 - [https://www.microsoft.com/en-us/download/details.aspx?id=
 
 IDFix - [https://raw.githubusercontent.com/Microsoft/idfix/master/publish/setup.exe](https://raw.githubusercontent.com/Microsoft/idfix/master/publish/setup.exe)
 
-Mail PF sync script - (https://www.microsoft.com/en-us/download/details.aspx?id=46381)
+Mail PF sync script - [https://www.microsoft.com/en-us/download/details.aspx?id=46381](https://www.microsoft.com/en-us/download/details.aspx?id=46381)
