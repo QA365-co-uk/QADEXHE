@@ -1,3 +1,5 @@
+Exchange Server 2019 CU 14 - [https://www.microsoft.com/en-us/download/details.aspx?id=105878](https://www.microsoft.com/en-us/download/details.aspx?id=105878)
+
 Exchange Server 2019 CU 14 SU3 V2- [https://www.microsoft.com/en-us/download/details.aspx?id=106320](https://www.microsoft.com/en-us/download/details.aspx?id=106320)
 
 Visual C++ Redistributable Packages for Visual Studio 2013 - [https://www.microsoft.com/en-us/download/details.aspx?id=40784](https://www.microsoft.com/en-us/download/details.aspx?id=40784)
